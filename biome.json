@@ -28,6 +28,7 @@
       "next": "recommended"
     },
     "rules": {
+      "recommended": true,
       "nursery": {
         "useSortedClasses": {
           "fix": "safe",
