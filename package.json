@@ -21,7 +21,7 @@
     "tailwind-merge": "^3.2.0"
   },
   "devDependencies": {
-    "@biomejs/biome": "2.0.0-beta.2",
+    "@biomejs/biome": "2.0.0",
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
     "@types/react": "^19",
