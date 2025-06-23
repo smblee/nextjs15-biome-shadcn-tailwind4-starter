@@ -13,5 +13,5 @@
 - bun
 - shadcn
 - tailwind v4
-- biome JS (v2 beta)
+- biome v2
 - lefthook (format precommit hook)
