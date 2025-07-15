@@ -1,17 +1,27 @@
+# Next.js 15 Starter
 
-# NextJS 15, shadcn, tailwind 4, biome starter
+Modern starter with Next.js 15, Tailwind v4, shadcn/ui, and Biome.
 
-## start
-- `bun i`
-- `bun dev`
+## Quick Start
 
-## lint/format
-- `bun lint`
-- `bun format`
+```bash
+bun i
+bun dev
+```
 
-## includes
-- bun
-- shadcn
-- tailwind v4
-- biome v2
-- lefthook (format precommit hook)
+## Commands
+
+- `bun dev` - Start development
+- `bun build` - Build for production  
+- `bun lint` - Check code
+- `bun format` - Format code
+
+## What's Included
+
+- Next.js 15
+- Tailwind CSS v4
+- shadcn/ui components
+- Biome (linting + formatting)
+- Bun package manager
+- TypeScript
+- Git hooks with Lefthook
